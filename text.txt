@@ -3,3 +3,5 @@ My names Pavel Baryghin.
 Today good weather!
 I make Linux's Lab4.
 Goodbay!
+On-board programmer's Usb connector
+Jtag intarface connector
