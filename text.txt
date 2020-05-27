@@ -1,0 +1,5 @@
+Hello world!
+My names Pavel Baryghin.
+Today good weather!
+I make Linux's Lab4.
+Goodbay!
